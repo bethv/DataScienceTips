@@ -24,3 +24,7 @@
 * NCBI: [Gene Expression Omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/) and [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra/)
 * [Encode project data](https://www.encodeproject.org/)
 * Encode data and much more available for download at EBI-EMBL's [Expression Atlas](https://www.ebi.ac.uk/gxa/home)
+
+### Misc
+
+* WGCNA: do the tutorials

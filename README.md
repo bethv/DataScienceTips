@@ -28,3 +28,4 @@
 ### Misc
 
 * WGCNA: do the tutorials
+* Book Practical Computing for Biologists. Steven H. D. Haddock and Casey W. Dunn
